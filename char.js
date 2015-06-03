@@ -67,7 +67,7 @@ RCHAR = {
 		this.FLD.html(charsLeft);
 	},
 	about : function () {
-		var str = "What? how can reddit forget char counters?? Needed to fix that..\nAuthor:EnkiVsEnlil";
+		var str = "What? how can reddit forget char counters?? Needed to fix that..\n";
 		alert(str);
 	}
 	
