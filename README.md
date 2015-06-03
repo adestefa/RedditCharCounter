@@ -13,7 +13,9 @@ Drag the link below to your Browser's link toolbar or right-click to add to your
 
 [Reddit Char Counter](javascript:jQuery.getScript('//adestefa.com/reddit/tools/char.js',%20function()%20{void(0);});void(0);)
 
-javascript:jQuery.getScript('//adestefa.com/reddit/tools/char.js',%20function()%20{void(0);});void(0);
+Actual bookmarklet code: `javascript:jQuery.getScript('//adestefa.com/reddit/tools/char.js',%20function()%20{void(0);});void(0);`
+
+*Having problems using github to installing? Open the included char.html file in your browser, which will give you access to install the link from a real HTML page instead of Github markdown.*
 
 
 ## Usage
