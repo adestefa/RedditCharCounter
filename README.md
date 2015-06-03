@@ -13,6 +13,9 @@ Drag the link below to your Browser's link toolbar or right-click to add to your
 
 [Reddit Char Counter](javascript:jQuery.getScript('//adestefa.com/reddit/tools/char.js',%20function()%20{void(0);});void(0);)
 
+javascript:jQuery.getScript('//adestefa.com/reddit/tools/char.js',%20function()%20{void(0);});void(0);
+
+
 ## Usage
 When you are filling out your post, click the new 'Reddit char counter' bookmark and enjoy!
 
