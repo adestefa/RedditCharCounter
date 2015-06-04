@@ -27,7 +27,7 @@ When you are filling out your post, click the new 'Reddit char counter' bookmark
 ## How it works
 The bookmark is actually a tiny bit of JavaScript which downloads a small char.js file that does the work. It adds the new label and shows the actual characters left as you type.
 
-![alt tag](https://github.com/adestefa/RedditCharCounter/blob/master/demo.jpeg)
+![alt tag](http://adestefa.com/reddit/tools/demo.jpeg)
 
 
 ## Known issues
